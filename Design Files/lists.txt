@@ -1,0 +1,6 @@
+var noun1 = [“Unicorn”, ”Castle”, ”Wolf”, ”Pony”, ”Cat”, ”Ship”, ”Bike”, ”Owl”, ”Skull”, ”Tree”];
+
+var noun2 = [“Sun”, “Rainbow“, “Flower“, “Donut“, “Pizza“, “Camera“, “Book“, “Cowboy“, “Clown“, “Moose“, “Feather“];
+
+ var adjective1 = [“Happy“, “Sad“, “Excited“, “Angry“, “Majestic“, “Futuristic“, “Old Fashioned“, “Modern“, “Grumpy“, “Mysterious“, “Friendly“, “Courageous“, “Innocent“, “Sassy“, “Macho“, “Perky“, “Awkward“, “Magnificent“, “Creepy“];
+
